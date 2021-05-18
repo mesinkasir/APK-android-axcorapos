@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# Axcorapos Apps
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/APK-android-axcorapos/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Aplikasi toko kasir penjualan mesin kasir online include website APK android all in one
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Aplikasi toko kasir penjualan mesin kasir online include website APK android all in one](https://camo.githubusercontent.com/e2dccdafa7a8bd985ea973742e05ab1f09b472424243e8ac8bc3830ee05c29de/68747470733a2f2f6d6573696e6b617369722e6769746875622e696f2f706f736170702f6d61696e2f696d616765732f61706c696b6173696b617369726f6e6c696e652e706e67 )
 
-### Markdown
+Simple aplikasi toko kasir penjualan online
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Download Source code here 
 
-```markdown
-Syntax highlighted code block
+[https://github.com/mesinkasir/posapp](https://github.com/mesinkasir/posapp)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+![Aplikasi toko kasir penjualan mesin kasir online include website APK android all in one](https://1.bp.blogspot.com/-MUxz2bprhA8/XRyu8-lAsgI/AAAAAAAAAIU/FG3dUgQN1uEyEhRNoKdeN8QlCZqRvLlDACLcBGAs/s1600/mesin%2Bkasir%2Bonline%2Bweb%2Bbased.jpg)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+Update dengan fitur integrasi aplikasi toko dan kasir penjualan online dengan website toko online shop order.
 
-[Link](url) and ![Image](src)
-```
+![Aplikasi toko kasir penjualan mesin kasir online include website APK android all in one](https://1.bp.blogspot.com/-a8OiP4wbjiU/XRyuuPdB2OI/AAAAAAAAAHc/JjNHNALToi0WkbC8AaJyWXseWgGi_tSWwCLcBGAs/s1600/aplikasi%2Bkasir%2Bonline%2Bhandphone%2Bandroid.png)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Aplikasi toko kasir penjualan mesin kasir online include website APK android all in one
 
-### Jekyll Themes
+[Download APK Android →](https://github.com/mesinkasir/APK-android-axcorapos/raw/main/axcoraapp.apk)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/APK-android-axcorapos/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+more info whatsapp : +6285646104747
